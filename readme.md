@@ -26,7 +26,6 @@ Stores customer and admin information.
 | `name`    | VARCHAR    | Customer/Admin name  |
 | `email`   | VARCHAR    | Email address        |
 | `password`   | VARCHAR    | Hashed password        |
-		
 | `phone`   | VARCHAR    | Contact number       |
 | `role`    | VARCHAR    | Customer/Admin role  |
 
