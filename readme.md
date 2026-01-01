@@ -55,7 +55,7 @@ Stores booking details including customer, vehicle, dates, status, and total cos
 | `status`     | VARCHAR    | Status (pending, confirmed, completed)         |
 | `total_cost` | DECIMAL    | Total cost for the booking                     |
 
-**ERD Link:** [View ERD on Lucidchart](https://www.lucidchart.com/your-public-erd-link)
+**ERD Link:** [View ERD on Lucidchart](https://lucid.app/lucidchart/657a41d9-d991-47c4-9a05-0f0c6dc302e2/edit?view_items=MFajHrj0uD4Y&page=0_0&invitationId=inv_1a341be2-f878-488d-a132-5dc12d292b39)
 
 ---
 
@@ -118,7 +118,7 @@ HAVING COUNT(b.booking_id) > 2;
 
 ### 1. Clone the repository:
 ```sql
-git clone [https://github.com/yourusername/vehicle-booking-sql.git](https://github.com/yourusername/vehicle-booking-sql.git)
+git clone https://github.com/asuselessbrain/Vehicle-Rental-System/blob/main/queries.sql
 ```
 
 ### 2. Run the Script: Import and execute queries.sql to create the schema, insert sample data, and run the analysis queries.
